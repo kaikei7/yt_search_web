@@ -1,0 +1,4 @@
+requests
+git+https://github.com/alexmercerind/youtube-search-python#egg=youtube-search-python
+flask
+bs4
